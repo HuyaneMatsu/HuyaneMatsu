@@ -4,9 +4,11 @@
     </b>
 </h1>
 
-<h5 align="center">
-    New innovative programming disciplines, frameworks and products, I create new code.
-</h5>
+<p align="center">
+    <b>
+        New innovative programming disciplines, frameworks and products, I create new code.
+    </b>
+</p>
 
 <br>
 
