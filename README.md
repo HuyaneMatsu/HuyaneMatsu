@@ -9,16 +9,17 @@
 </h5>
 
 <br>
+
 ___
 
 <p align="center">
     I am a professional Javascript developer.
 </p>
 
-<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuyaneMatsu&layout=compact&card_width=443&show_icons=true&show_icons=true&theme=calm&hide_border=true"
-    style="margin-left:auto; margin-right:auto; display:block;"
-/>
-
-<br>
+<p align="center">
+    <img
+        align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuyaneMatsu&layout=compact&card_width=443&show_icons=true&show_icons=true&theme=calm&hide_border=true"
+        style="margin-left:auto; margin-right:auto; display:block;"
+    />
+</p>
