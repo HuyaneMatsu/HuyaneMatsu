@@ -17,9 +17,3 @@ ___
 <p align="center">
     I am a professional Javascript developer.
 </p>
-
-<p align="center">
-    <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuyaneMatsu&layout=compact&card_width=443&show_icons=true&show_icons=true&theme=calm&hide_border=true"
-    />
-</p>
