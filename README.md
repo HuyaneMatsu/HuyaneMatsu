@@ -15,5 +15,5 @@
 ___
 
 <p align="center">
-    I am a professional C# developer.
+    I am a professional Python developer.
 </p>
